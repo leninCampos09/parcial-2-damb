@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">parcial 2 damb</string>
+    <string name="profile_image" />
+    <string name="pizza_image" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="remove_item" />
+</resources>
